@@ -1,0 +1,9 @@
+Package: com.yourcompany.droidmessage
+Name: droidMessage
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Abrar Ahmed
+Author: Abrar Ahmed
+Section: Tweaks
